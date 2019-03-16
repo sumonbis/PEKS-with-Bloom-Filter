@@ -11,3 +11,17 @@ The first algorithm takes less time and space compared to the second. However, t
 
 In this project, I have implemented the second algorithm of PEKS that originates form trapdoor permutations.
 Then I have implemented Bloom Filter that is used to search keywords over the hashmap.
+
+
+
+To run this project first resolve the requirements.txt by:
+
+```shell
+$ pip install -r requirements.txt
+```
+
+Then run peks.py by:
+
+```shell
+$ python peks.py
+```

@@ -1,0 +1,186 @@
+Search Complete.
+
+Result:
+Stored Keywords: holiday, coupon, send, quick, night, week, month, last, university.
+No of stored words: 9
+
+Size of bit vector: 50
+Number of hashes used: 10
+Number of false positives: 4
+Percentage of false positives: 44.44444444444444% 
+
+
+Size of bit vector: 100
+Number of hashes used: 10
+Number of false positives: 1
+Percentage of false positives: 11.11111111111111% 
+
+
+Size of bit vector: 150
+Number of hashes used: 10
+Number of false positives: 1
+Percentage of false positives: 11.11111111111111% 
+
+
+Size of bit vector: 200
+Number of hashes used: 10
+Number of false positives: 1
+Percentage of false positives: 11.11111111111111% 
+
+
+Size of bit vector: 250
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+
+Size of bit vector: 300
+Number of hashes used: 10
+Number of false positives: 1
+Percentage of false positives: 11.11111111111111% 
+
+
+Size of bit vector: 350
+Number of hashes used: 10
+Number of false positives: 1
+Percentage of false positives: 11.11111111111111% 
+
+
+Size of bit vector: 400
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+
+Size of bit vector: 450
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+
+Size of bit vector: 500
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+
+Size of bit vector: 550
+Number of hashes used: 10
+Number of false positives: 1
+Percentage of false positives: 11.11111111111111% 
+
+
+Size of bit vector: 600
+Number of hashes used: 10
+Number of false positives: 1
+Percentage of false positives: 11.11111111111111% 
+
+
+Size of bit vector: 650
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+
+Size of bit vector: 700
+Number of hashes used: 10
+Number of false positives: 1
+Percentage of false positives: 11.11111111111111% 
+
+
+Size of bit vector: 750
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+
+Size of bit vector: 800
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+
+Size of bit vector: 850
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+
+Size of bit vector: 900
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+
+Size of bit vector: 950
+Number of hashes used: 10
+Number of false positives: 1
+Percentage of false positives: 11.11111111111111% 
+
+
+Size of bit vector: 1000
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+
+Size of bit vector: 1050
+Number of hashes used: 10
+Number of false positives: 1
+Percentage of false positives: 11.11111111111111% 
+
+
+Size of bit vector: 1100
+Number of hashes used: 10
+Number of false positives: 1
+Percentage of false positives: 11.11111111111111% 
+
+
+Size of bit vector: 1150
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+
+Size of bit vector: 1200
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+
+Size of bit vector: 1250
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+
+Size of bit vector: 1300
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+
+Size of bit vector: 1350
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+
+Size of bit vector: 1400
+Number of hashes used: 10
+Number of false positives: 1
+Percentage of false positives: 11.11111111111111% 
+
+
+Size of bit vector: 1450
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+
+Size of bit vector: 1500
+Number of hashes used: 10
+Number of false positives: 0
+Percentage of false positives: 0.0% 
+
+

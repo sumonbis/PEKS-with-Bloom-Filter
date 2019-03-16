@@ -1,0 +1,2 @@
+pycrypto==2.6.1
+matplotlib==2.0.1
